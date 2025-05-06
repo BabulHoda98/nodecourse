@@ -1,0 +1,8 @@
+1.What is Node.js? How is it different from traditional server-side technologies?
+Node.js is an open-source, cross-platform runtime environment that allows you to run JavaScript code outside the browser, typically on the server side.
+
+=>Built on Google Chrome's V8 JavaScript engine
+=>Uses a non-blocking, event-driven architecture
+=>Ideal for building fast, scalable network applications (like APIs, chat apps, real-time services)
+
+2.
