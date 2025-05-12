@@ -1,0 +1,9 @@
+- nodemon एक utility है जो आपके Node.js एप्लिकेशन को auto-restart कर देता है जब भी आप कोड में कोई बदलाव करते हैं। इससे बार-बार node index.js चलाने की जरूरत नहीं होती।
+npm install -g nodemon
+
+- package.json बनाएं और Express इंस्टॉल करें
+npm init -y
+npm install express
+अगर आपने फाइल का नाम कुछ और रखा है, जैसे app.js, तो उस नाम का यूज़ करें:
+node app.js
+
