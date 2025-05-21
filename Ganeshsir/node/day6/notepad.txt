@@ -1,0 +1,2 @@
+-6days
+npm i inquirer
